@@ -4,7 +4,7 @@
 <br>
 <div>
 <img height="60" width="70" src="https://icongr.am/devicon/laravel-plain-wordmark.svg?size=128&color=d57434" alt="">  
-<img height="60" width="70" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=cb34d5" alt="">
+<img height="60" width="70" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=a234d5" alt="">
 <img height="60" width="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=d57434" alt="">
 </div>
 <br>  
